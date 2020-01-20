@@ -7,6 +7,23 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 ### first-shot
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-apollo.png)](http://preview.bootcatch.com/ng-apollo-design-system)
 
+## Quick Start
+
+Clone the repo.
+
+`git clone https://github.com/ajaymarathe/ng-apollo-design-system.git  `
+
+After cloning Hit following commands.
+
+`npm install`
+
+`ng serve`
+
+## Usage
+
+After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
+hope this will help you.
+
 ## About
 
 Ng Apollo Design System is Angular 6 and Bootstrap 4.x ( bootcatch-themes ) based UI-KIT. It is a component-based design system, It has different color styles and ready to use bootstrap components on a single click.
@@ -19,15 +36,6 @@ All the free ui-kit & templateS on Bootcatch are released under the MIT license,
 * http://bootcatch.com/ui_kits
 
 Fully coded UI-kits based on Bootstrap, Angular, Vue, React, Html, Sass.
-
-## Usage
-
-After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
-hope this will help you.
-
-## Clone the Repository -
-
-`git clone https://github.com/ajaymarathe/ng-apollo-design-system.git  `
 
 ## Author
 
