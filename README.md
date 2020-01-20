@@ -13,7 +13,7 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 * [Author](#author)
 * [Copyright and License](#copyright-and-license)
 
-### first-shot
+## First Shot
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-apollo.png)](http://preview.bootcatch.com/ng-apollo-design-system)
 
 ## Quick Start
