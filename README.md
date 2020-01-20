@@ -17,16 +17,17 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-apollo.png)](http://preview.bootcatch.com/ng-apollo-design-system)
 
 ## Quick Start
+```
+//Clone the repo.
 
-Clone the repo.
+$ git clone https://github.com/ajaymarathe/ng-apollo-design-system.git  
 
-`git clone https://github.com/ajaymarathe/ng-apollo-design-system.git  `
+//After cloning Hit following commands.
 
-After cloning Hit following commands.
+$ npm install
 
-`npm install`
-
-`ng serve`
+$ ng serve
+```
 
 ## Usage
 
