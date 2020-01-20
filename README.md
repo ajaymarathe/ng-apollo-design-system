@@ -42,6 +42,6 @@ If you like my work then please give ⭐ and do follow me :P
 
 ## Copyright and License
 
-Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/ng-apollo-design-system/blob/master/LICENSE) license.
+Copyright 2019-2020 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/ng-apollo-design-system/blob/master/LICENSE) license.
 
 
