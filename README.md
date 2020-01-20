@@ -11,7 +11,7 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 
 Ng Apollo Design System is Angular 6 and Bootstrap 4.x ( bootcatch-themes ) based UI-KIT. It is a component-based design system, It has different color styles and ready to use bootstrap components on a single click.
 
-So download use for your next project, thanks.
+So download and use for your next project, thanks.
 
 All the free ui-kit & templateS on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
