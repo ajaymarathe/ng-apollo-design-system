@@ -4,6 +4,15 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 [![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Table of Contents
+
+* [First-shot](#first-shot)
+* [Quick Start](#quick-start)
+* [Usage](#usage)
+* [About](#about)
+* [Author](#author)
+* [Copyright and License](#copyright-and-license)
+
 ### first-shot
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-apollo.png)](http://preview.bootcatch.com/ng-apollo-design-system)
 
