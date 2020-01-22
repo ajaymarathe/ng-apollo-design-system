@@ -1,7 +1,6 @@
 # NG Apollo Design System
 Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based on Bootcatch Apollo Theme thanks :)
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
