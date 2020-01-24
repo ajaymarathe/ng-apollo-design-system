@@ -1,6 +1,7 @@
 # NG Apollo Design System
-Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based on Bootcatch Apollo Theme thanks :)
+NG Apollo Design System is  is Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
+[![NPM](https://img.shields.io/npm/v/ng-apollo-design-system.svg)](https://www.npmjs.com/package/ng-apollo-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-apollo-design-system.svg)](https://www.npmjs.com/package/ng-apollo-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -17,15 +18,13 @@ Hi there, NG Apollo Design System is open souce UI-KIT for Angular lovers based 
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-apollo-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-apollo-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
