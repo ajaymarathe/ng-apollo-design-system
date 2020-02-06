@@ -33,7 +33,7 @@ $ git clone https://github.com/ajaymarathe/ng-apollo-design-system.git
 
 ## Usage
 
-After download you can simply import all your components in your app.module.ts and then you ready to use.
+After download you can simply import all your components in your `app.module.ts` and then you ready to use.
 - [Read Docs](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular)
 
 ## About
