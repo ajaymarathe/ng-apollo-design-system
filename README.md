@@ -1,5 +1,5 @@
 # NG Apollo Design System
-NG Apollo Design System is  is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
+NG Apollo Design System is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
 [![NPM](https://img.shields.io/npm/v/ng-apollo-design-system.svg)](https://www.npmjs.com/package/ng-apollo-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-apollo-design-system.svg)](https://www.npmjs.com/package/ng-apollo-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
